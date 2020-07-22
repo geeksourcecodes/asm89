@@ -2,13 +2,13 @@
     "name": "asm89/stack-cors",
     "description": "Cross-origin resource sharing library and stack middleware",
     "keywords": ["stack", "cors"],
-    "homepage": "https://github.com/asm89/stack-cors",
+    "homepage": "https://github.com/geeksourcecodes/stack-cors",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Alexander",
-            "email": "iam.asm89@gmail.com"
+            "name": "Geeksourcecodes",
+            "email": "geeksourcecodes@gmail.com"
         }
     ],
     "require": {
